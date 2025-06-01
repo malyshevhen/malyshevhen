@@ -14,36 +14,27 @@
 
 ---
 
-## 🚀 About Me
+## 👋 Hello There! I'm Evhen
 
-```yaml
-name: Evhen Malysh
-located_in: Kyiv, Ukraine
-current_job: Software Engineer at Kaa-IOT
-education:
-  - "MS - Engineering Systems and Ecology"
-  - "Kyiv National University of Construction and Architecture"
+I'm Evhen Malysh, a Software Engineer based in Kyiv, Ukraine 🇺🇦, currently diving deep into IoT platform development at Kaa-IOT.</br>
+My technical journey has equipped me with a solid background in WEB Development and Microservice architecture.</br>
+Key statement:
 
-fields_of_interests:
-  - "Backend Development"
-  - "IoT Platforms"
-  - "Distributed Systems"
-  - "Microservices Architecture"
-  - "Clean Code & SOLID Principles"
+- Go is perfect programming language (Maybe Elixir is change my mind 😄)
+- Raw SQL is better then ORMs 🤘
+- Errors as values are better than "throw-try-catch-except-finally" insanity.
 
-technical_background:
-  - "API Development"
-  - "Database Integration"
-  - "System Reliability"
-  - "Concurrency & Async Programming"
+🚀 Currently, I'm expanding my horizons by exploring the BEAM ecosystem, Elixir, the nuances of Functional Programming. And for now I love it (except missing return statements).
+Outside of the tech world, you'll find me capturing moments with Film Photography 📷, enjoying diverse Music and TV Shows, tinkering with Linux, or generally geeking out over all things tech!
 
-currently_learning: ["BEAM", "Elixir", "Functional programming", "Python"]
-hobbies: ["Film Photo", "Music", "TV Shows", "Linux", "Tech stuff"]
-```
+And, forgot to mansion, I use Arch BTW... 😎
 
-## 🛠️ Beloved Tech Stack
+---
 
 <div align="center">
+
+##  🚀 My Go-To Technologies
+
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-FF6B35?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -76,9 +67,11 @@ hobbies: ["Film Photo", "Music", "TV Shows", "Linux", "Tech stuff"]
 
 </div>
 
-## Currently Learning
+---
 
 <div align="center">
+
+##  🌱 What I'm Exploring Now
 
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=Elixir&logoColor=white" />
 <img src="https://img.shields.io/badge/Gleam-FFAFF3?style=for-the-badge&logo=Gleam&logoColor=black" />
@@ -90,9 +83,9 @@ hobbies: ["Film Photo", "Music", "TV Shows", "Linux", "Tech stuff"]
 
 </div>
 
-## Backlog
-
 <div align="center">
+
+##  💡 Tech on My Radar
 
 <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
