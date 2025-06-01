@@ -67,20 +67,6 @@ hobbies: ["Film Photo", "Music", "TV Shows", "Linux", "Tech stuff"]
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
-## 💼 Professional Experience
-
-<details>
-<summary><b>🏢 Software Engineer at Kaa-IOT</b></summary>
-<br>
-
-- 🔧 **IoT Platform Development**: Maintaining and extending core services in a large-scale IoT platform
-- ⚡ **Performance Optimization**: Implemented highly concurrent Remote Access service with VPN and SSH tunneling
-- 🛡️ **Security Integration**: Integrated Keycloak IAM for robust user resource protection
-- 📊 **Core Features**: Developed message templating, SMS sending, and CSV processing capabilities
-- 🔒 **Technologies**: Java, Go, PostgreSQL, MongoDB, InfluxDB, Docker, Keycloak, OpenVPN
-
-</details>
-
 ## 📊 GitHub Stats
 
 <div align="center">
